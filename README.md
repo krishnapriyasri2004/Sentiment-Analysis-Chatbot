@@ -29,27 +29,6 @@ A modern AI-powered chatbot that performs real-time sentiment analysis using a u
 | Node.js        | Runtime for backend logic       |
 | OpenAI API     | For sentiment classification    |
 
----
-
-## 📁 Project Structure
-
-```
-
-📦 sentiment-analyzer/
-├── app/                # Main application routes
-├── components/         # Reusable UI components
-├── hooks/              # Custom React hooks
-├── lib/                # Utility functions or API logic
-├── public/             # Static assets
-├── styles/             # Global and component-level styles
-├── .env.local          # Environment variables (keep secret)
-├── package.json        # Project metadata and dependencies
-├── tsconfig.json       # TypeScript config
-└── tailwind.config.ts  # Tailwind config
-
-````
-
----
 
 ## ⚙️ Getting Started
 
@@ -113,14 +92,3 @@ Built by [Krishna Priya S](https://github.com/krishnapriyasri2004) — Final yea
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd like to add:
-- Screenshots of the app
-- Live demo link (if hosted)
-- Contribution guide
-
-I'll be happy to help!
-```
