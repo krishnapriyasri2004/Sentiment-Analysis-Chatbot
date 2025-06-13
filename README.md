@@ -1,8 +1,3 @@
-Absolutely! Here's a professional and clean `README.md` for your **Sentiment-Analysis-Chatbot** project:
-
----
-
-```markdown
 # 🎯 Sentiment-Analysis-Chatbot
 
 A modern AI-powered chatbot that performs real-time sentiment analysis using a user-friendly web interface built with **Next.js**, **Tailwind CSS**, and TypeScript.
